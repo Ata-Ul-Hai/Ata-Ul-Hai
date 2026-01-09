@@ -1,16 +1,24 @@
-## Hi there 👋
+## Hi, I'm Ata 👋
 
-<!--
-**Ata-Ul-Hai/Ata-Ul-Hai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 First-year Computer Science student  
+💻 Early-stage developer | Open-source contributor  
+🤖 Interested in AI/ML, backend systems, and practical software engineering  
 
-Here are some ideas to get you started:
+### What I'm doing
+- Contributing to open source and learning from real-world codebases  
+- Building projects to strengthen core CS and development skills  
+- Improving in JavaScript, Python, and system fundamentals  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### What I care about
+- Learning by doing, not just reading  
+- Writing clean, understandable code  
+- Open collaboration and long-term growth as an engineer  
+
+### Currently exploring
+- Large open-source projects (Jitsi, SWOC)
+- Backend development & system design basics
+- AI-assisted developer workflows
+
+📫 Connect with me  
+- GitHub: https://github.com/Ata-Ul-Hai  
+- LinkedIn: https://www.linkedin.com/in/ataulhai
