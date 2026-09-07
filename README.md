@@ -1,25 +1,26 @@
-# Hi 👋, I'm Ata Ul Hai
+# Hi, I'm Ata Ul Hai 👋
 
-### A passionate Early Stage Developer
+**Full-Stack Engineer** building AI-powered products end to end — React/Next.js frontends, Node.js & FastAPI backends, and LLM features that actually ship.
 
-- 🔭 I'm currently working on **Open source projects**
+- 🎓 B.Tech CS (AI & ML) @ Polaris School of Technology (Medhavi Skills University) · B.S. Computer Science (Online) @ BITS Pilani
+- 📍 Bengaluru, India
+- 📫 ataulhai2007@gmail.com · [LinkedIn](https://www.linkedin.com/in/ataulhai/)
 
-- 🌱 I'm currently learning **Product Development (specifically focusing on user discovery and MVP scoping).**
+---
 
-- 💬 Ask me about **Anything,
-I know something about everything(still working on it)**
+## 🚀 Flagship Projects
 
-- 📫 How to reach me **ataulhai2007@gmail.com**
+| Project | What it is |
+|---------|------------|
+| **[AniGenerator](https://github.com/Ata-Ul-Hai/AniGenerator)** | Full-stack AI document-to-video — PDF/DOCX/TXT in, Gemini-storyboarded animated video out. React, FastAPI, PostgreSQL, Remotion, Google Cloud Run |
+| **[FlashSaleEngine](https://github.com/Ata-Ul-Hai/FlashSaleEngine)** | Checkout backend that survives flash-sale concurrency — Redis atomic guards, BullMQ pipeline, zero oversell at 1,000 rps load tests |
+| **[FocusLoop](https://github.com/Ata-Ul-Hai/FocusLoop)** | Offline-first Android + PWA focus timer built on Capacitor — resilient reminders via the Capacitor Android bridge |
+| **[Portfolio](https://ata-ul-hai.github.io/)** | Personal site & project writeups |
 
-- ⚡ Fun fact **Speaking Style:** Random stuff |
-**Success Rate**: Sometimes funny |
-**Bug Status:** It's a feature, not a bug
+## 🛠️ Stack
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/ataulhai/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ataulhai/" height="30" width="40" /></a>
-</p>
+`TypeScript` · `JavaScript` · `Python` — `React` · `Next.js` · `Tailwind CSS` · `Redux Toolkit` — `Node.js` · `Express` · `FastAPI` — `PostgreSQL` · `MongoDB` · `Redis` · `Supabase` — `Docker` · `Google Cloud Run` · `Cloud Build` — `LLM integration` · `Embeddings` · `Vitest`
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=css" alt="css3" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=html" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/javascript" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=js" alt="javascript" width="40" height="40"/> </a> <a href="https://www.postman.com/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=postman" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=py" alt="python" width="40" height="40"/> </a> <a href="https://react.dev/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=react" alt="react" width="40" height="40"/> </a></p>
+## ⚡ What I care about
 
+Building real products, not tutorials: async job pipelines, concurrency safety, AI feature integration, and shipping things that survive real users. Every repo below the pinned ones is a working tool, not a code-along.
