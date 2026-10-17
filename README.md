@@ -1,6 +1,6 @@
 # Hi, I'm Ata Ul Hai 👋
 
-**Full-Stack Engineer** building AI-powered products end to end — React/Next.js frontends, Node.js & FastAPI backends, and LLM features that actually ship.
+**Full-Stack Engineer** building AI-native products end to end — using agent-assisted workflows to move from idea to shipped software across React/Next.js frontends, Node.js & FastAPI backends, and production-ready LLM features.
 
 - 🎓 B.Tech CS (AI & ML) @ Polaris School of Technology (Medhavi Skills University) · B.S. Computer Science (Online) @ BITS Pilani
 - 📍 Bengaluru, India
@@ -21,6 +21,10 @@
 
 `TypeScript` · `JavaScript` · `Python` — `React` · `Next.js` · `Tailwind CSS` · `Redux Toolkit` — `Node.js` · `Express` · `FastAPI` — `PostgreSQL` · `MongoDB` · `Redis` · `Supabase` — `Docker` · `Google Cloud Run` · `Cloud Build` — `LLM integration` · `Embeddings` · `Vitest`
 
+## 🧭 How I build
+
+AI-native and agent-assisted where it helps, but always hands-on across product, frontend, backend, and infrastructure. I iterate quickly from prototype to production, debug deeply, validate behavior under real constraints, and refine based on real user usage.
+
 ## ⚡ What I care about
 
-Building real products, not tutorials: async job pipelines, concurrency safety, AI feature integration, and shipping things that survive real users. Every repo below the pinned ones is a working tool, not a code-along.
+Building real products, not tutorials: async job pipelines, concurrency safety, AI integration, and systems that hold up in production. I care about clear ownership, rigorous debugging and validation, and shipping tools that work for real users—not just demos.
