@@ -23,4 +23,5 @@
 
 ## ⚡ What I care about
 
-Building real products, not tutorials: async job pipelines, concurrency safety, AI feature integration, and shipping things that survive real users. Every repo below the pinned ones is a working tool, not a code-along.
+Building robust backend architectures, deterministic AI pipelines, and reliable full-stack applications. Focused on concurrency control, asynchronous queues, and deploying clean, tested software that handles real production traffic.
+I learn by building.
